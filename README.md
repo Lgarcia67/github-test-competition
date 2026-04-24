@@ -1,13 +1,28 @@
-# Sun
 
-You made it to the sun!
+---
 
-Now your team must explore two paths before continuing.
+## 🕳️ `cave-path/README.md`
+
+```md
+# Cave Path
+
+The cave reveals another part of the final message.
 
 ## Your task
 
-Visit BOTH branches:
+1. Open the file `message.md`
+2. Replace the message with:
 
-```txt
-river-path
-cave-path
+MESSAGE: The gate opens with TEAMWORK.
+
+3. Save the file
+4. Commit your changes
+
+---
+
+## Commands you may need
+
+```bash
+git status
+git add message.md
+git commit -m "Complete cave path"
