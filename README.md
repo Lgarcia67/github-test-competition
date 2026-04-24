@@ -1,13 +1,23 @@
-# Sun
+# Sun Camp
 
 You made it to the sun!
 
-Now your team must explore two paths before continuing.
+From here, your team must explore two paths to uncover the final message.
 
 ## Your task
 
 Visit BOTH branches:
 
-```txt
-river-path
-cave-path
+river-path  
+cave-path  
+
+Each branch contains part of the final message.
+
+---
+
+## Steps
+
+1. Go to each branch:
+```bash
+git checkout river-path
+git checkout cave-path
