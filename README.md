@@ -26,8 +26,8 @@ The river reveals part of the final message.
 
 ## Your task
 
-1. Open the file `message.md`
-2. Replace the message with:
+    1. Open the file `message.md`
+    2. Replace the message with:
 
 MESSAGE: TEAMWORK OPENS
 
@@ -39,7 +39,9 @@ The river reveals part of the final message.
 
 ## Your task
 
-1. Open the file `message.md`
-2. Replace the message with:
+    1. Open the file `message.md`
+    2. Replace the message with:
 
 MESSAGE: THE GATE
+
+3. Combine both messages and resolve git conflict
